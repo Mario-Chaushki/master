@@ -1,0 +1,10 @@
+{
+  "name": "JavaScript-Loops-Arrays-Strings-Homework",
+  "version": "0.0.0",
+  "description": "JavaScript Loops,Arrays,Strings Homework",
+  "main": "app.js",
+  "author": {
+    "name": "Khaoz",
+    "email": ""
+  }
+}

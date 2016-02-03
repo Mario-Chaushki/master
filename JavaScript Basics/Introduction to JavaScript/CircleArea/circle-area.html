@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <script src="circle-area.js" type="text/javascript">
+
+    </script>
+</head>
+<body>
+    <script>
+        function report() {
+            var firstRadius = 7;
+            var secondRadius = 1.5;
+            var thirdRadius = 20;
+            var firstResult = calcCircleArea(firstRadius);
+            var secondResult = calcCircleArea(secondRadius);
+            var thirdResult = calcCircleArea(thirdRadius);
+
+            document.writeln("if radius = " + firstRadius + " then area = " + firstResult + "<br/>");
+            document.writeln("if radius = " + secondRadius + " then area = " + secondResult + "<br/>");
+            document.writeln("if radius = " + thirdRadius + " then area = " + thirdResult + "<br/>");
+        }
+        report();
+        
+    </script>
+
+</body>
+</html>

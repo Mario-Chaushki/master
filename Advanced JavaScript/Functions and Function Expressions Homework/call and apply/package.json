@@ -1,0 +1,10 @@
+{
+  "name": "call-and-apply",
+  "version": "0.0.0",
+  "description": "call and apply",
+  "main": "app.js",
+  "author": {
+    "name": "Khaoz",
+    "email": ""
+  }
+}

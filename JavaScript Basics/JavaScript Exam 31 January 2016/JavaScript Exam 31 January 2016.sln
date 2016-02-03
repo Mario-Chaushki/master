@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "01. Exam Results", "NodejsConsoleApp1\01. Exam Results.njsproj", "{D63367C6-27AF-4178-8D4D-83D031B9E239}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "03. SoftUni Forum", "03. SoftUni Forum\03. SoftUni Forum.njsproj", "{1610FE17-EA55-4F8D-9630-0B7DFD0EDA58}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "02. Filter Matrix", "02. Filter Matrix\02. Filter Matrix.njsproj", "{6334EEBB-3AB6-4455-AE68-D435C7A4E0FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D63367C6-27AF-4178-8D4D-83D031B9E239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D63367C6-27AF-4178-8D4D-83D031B9E239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D63367C6-27AF-4178-8D4D-83D031B9E239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D63367C6-27AF-4178-8D4D-83D031B9E239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1610FE17-EA55-4F8D-9630-0B7DFD0EDA58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1610FE17-EA55-4F8D-9630-0B7DFD0EDA58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1610FE17-EA55-4F8D-9630-0B7DFD0EDA58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1610FE17-EA55-4F8D-9630-0B7DFD0EDA58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6334EEBB-3AB6-4455-AE68-D435C7A4E0FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6334EEBB-3AB6-4455-AE68-D435C7A4E0FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6334EEBB-3AB6-4455-AE68-D435C7A4E0FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6334EEBB-3AB6-4455-AE68-D435C7A4E0FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

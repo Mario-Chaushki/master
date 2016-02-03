@@ -1,0 +1,10 @@
+{
+  "name": "01.The-Teteven-Trip",
+  "version": "0.0.0",
+  "description": "01.The Teteven Trip",
+  "main": "app.js",
+  "author": {
+    "name": "Khaoz",
+    "email": ""
+  }
+}

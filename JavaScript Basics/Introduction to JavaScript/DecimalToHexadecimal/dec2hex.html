@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+</head>
+<body>
+    <div id="window">
+
+    </div>
+
+    <script>
+        function convertToHex(num) {
+            num = parseInt(num);
+            converted = num.toString(16);
+            return converted.toUpperCase();
+        }
+
+        var promptWindow = prompt("Write the number you want to convert to hexadecimal");
+        alert(convertToHex(promptWindow));
+    </script>
+</body>
+</html>

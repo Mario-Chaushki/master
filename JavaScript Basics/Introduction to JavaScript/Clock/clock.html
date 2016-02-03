@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+</head>
+<body>
+    <h1>The current time is:</h1>
+    <p id="time"></p>
+    <script>
+        function getTime() {
+            var currentDate = new Date();
+            var hours = currentDate.getHours();
+            var minutes = currentDate.getMinutes();
+            var seconds = currentDate.getSeconds();
+            document.getElementById("time").innerHTML = (hours + ':' + minutes + ':' + seconds);
+        }
+
+        setTimeout(getTime, 1000);
+    </script>
+    <!--Cant make it work properly!-->
+</body>
+</html>

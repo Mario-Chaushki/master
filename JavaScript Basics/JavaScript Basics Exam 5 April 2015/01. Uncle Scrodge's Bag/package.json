@@ -1,0 +1,10 @@
+{
+  "name": "01.-Uncle-Scrodge-s-Bag",
+  "version": "0.0.0",
+  "description": "01. Uncle Scrodge's Bag",
+  "main": "app.js",
+  "author": {
+    "name": "Khaoz",
+    "email": ""
+  }
+}

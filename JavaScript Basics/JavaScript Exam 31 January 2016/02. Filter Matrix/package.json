@@ -1,0 +1,10 @@
+{
+  "name": "02.-Filter-Matrix",
+  "version": "0.0.0",
+  "description": "02. Filter Matrix",
+  "main": "app.js",
+  "author": {
+    "name": "Khaoz",
+    "email": ""
+  }
+}

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "01. Kitodar the Miner", "01. Kitodar the Miner\01. Kitodar the Miner.njsproj", "{05C442A6-F8A9-4FFB-9EC2-304833128389}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "04. Student Protocol", "04. Student Protocol\04. Student Protocol.njsproj", "{830B65DA-493B-46ED-90F2-5492317546F7}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "03. Magic Card", "03. Magic Card\03. Magic Card.njsproj", "{9B3F2F7B-7A9D-495B-AFBF-52CAC1F1A853}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05C442A6-F8A9-4FFB-9EC2-304833128389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05C442A6-F8A9-4FFB-9EC2-304833128389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05C442A6-F8A9-4FFB-9EC2-304833128389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05C442A6-F8A9-4FFB-9EC2-304833128389}.Release|Any CPU.Build.0 = Release|Any CPU
+		{830B65DA-493B-46ED-90F2-5492317546F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{830B65DA-493B-46ED-90F2-5492317546F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{830B65DA-493B-46ED-90F2-5492317546F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{830B65DA-493B-46ED-90F2-5492317546F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B3F2F7B-7A9D-495B-AFBF-52CAC1F1A853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B3F2F7B-7A9D-495B-AFBF-52CAC1F1A853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B3F2F7B-7A9D-495B-AFBF-52CAC1F1A853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B3F2F7B-7A9D-495B-AFBF-52CAC1F1A853}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

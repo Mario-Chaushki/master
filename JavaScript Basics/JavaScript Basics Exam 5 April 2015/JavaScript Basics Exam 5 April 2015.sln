@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "01. Uncle Scrooge's Bag", "01. Uncle Scrodge's Bag\01. Uncle Scrooge's Bag.njsproj", "{007CDB5C-19F6-4A70-8630-E753E55C7A19}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "02. Flee Racing", "02. Flee Racing\02. Flee Racing.njsproj", "{6218CA75-53C5-4061-B5E3-C23FAE2F8BF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{007CDB5C-19F6-4A70-8630-E753E55C7A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{007CDB5C-19F6-4A70-8630-E753E55C7A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{007CDB5C-19F6-4A70-8630-E753E55C7A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{007CDB5C-19F6-4A70-8630-E753E55C7A19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6218CA75-53C5-4061-B5E3-C23FAE2F8BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6218CA75-53C5-4061-B5E3-C23FAE2F8BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6218CA75-53C5-4061-B5E3-C23FAE2F8BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6218CA75-53C5-4061-B5E3-C23FAE2F8BF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

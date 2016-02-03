@@ -1,0 +1,10 @@
+{
+  "name": "02.-Flee-Racing",
+  "version": "0.0.0",
+  "description": "02. Flee Racing",
+  "main": "app.js",
+  "author": {
+    "name": "Khaoz",
+    "email": ""
+  }
+}

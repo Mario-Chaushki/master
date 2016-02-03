@@ -1,0 +1,10 @@
+{
+  "name": "Function-Arguments",
+  "version": "0.0.0",
+  "description": "Function Arguments",
+  "main": "app.js",
+  "author": {
+    "name": "Khaoz",
+    "email": ""
+  }
+}

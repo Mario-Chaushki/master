@@ -1,0 +1,10 @@
+{
+  "name": "04.-Student-Protocol",
+  "version": "0.0.0",
+  "description": "04. Student Protocol",
+  "main": "app.js",
+  "author": {
+    "name": "Khaoz",
+    "email": ""
+  }
+}

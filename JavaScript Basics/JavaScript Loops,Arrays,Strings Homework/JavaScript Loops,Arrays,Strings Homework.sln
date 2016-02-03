@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Array Manipulator", "Array Manipulator\Array Manipulator.njsproj", "{264A6EB6-38B7-4064-A986-D228E8DB4E01}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Score modification", "Score modification\Score modification.njsproj", "{317922E5-18CE-4AFA-A824-8CB70D57644D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{264A6EB6-38B7-4064-A986-D228E8DB4E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{264A6EB6-38B7-4064-A986-D228E8DB4E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{264A6EB6-38B7-4064-A986-D228E8DB4E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{264A6EB6-38B7-4064-A986-D228E8DB4E01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{317922E5-18CE-4AFA-A824-8CB70D57644D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{317922E5-18CE-4AFA-A824-8CB70D57644D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{317922E5-18CE-4AFA-A824-8CB70D57644D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{317922E5-18CE-4AFA-A824-8CB70D57644D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Array object extractor", "Array object extractor\Array object extractor.njsproj", "{58FAED57-1A28-4A73-A5B6-E3EA67128CBA}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "String's letter organizer", "String's letter organizer\String's letter organizer.njsproj", "{29480126-31AF-4E5A-B5B1-969477D485F0}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Find Youngest Person that has a smartphone", "Find Youngest Person that has a smartphone\Find Youngest Person that has a smartphone.njsproj", "{12329F06-2205-4DD1-8C18-8E7C6B370253}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count Number of DIVs", "Count Number of DIVs\Count Number of DIVs.csproj", "{F5C8397E-36F4-4F29-8C54-42913A2790C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58FAED57-1A28-4A73-A5B6-E3EA67128CBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FAED57-1A28-4A73-A5B6-E3EA67128CBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FAED57-1A28-4A73-A5B6-E3EA67128CBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FAED57-1A28-4A73-A5B6-E3EA67128CBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29480126-31AF-4E5A-B5B1-969477D485F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29480126-31AF-4E5A-B5B1-969477D485F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29480126-31AF-4E5A-B5B1-969477D485F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29480126-31AF-4E5A-B5B1-969477D485F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12329F06-2205-4DD1-8C18-8E7C6B370253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12329F06-2205-4DD1-8C18-8E7C6B370253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12329F06-2205-4DD1-8C18-8E7C6B370253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12329F06-2205-4DD1-8C18-8E7C6B370253}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5C8397E-36F4-4F29-8C54-42913A2790C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5C8397E-36F4-4F29-8C54-42913A2790C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5C8397E-36F4-4F29-8C54-42913A2790C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5C8397E-36F4-4F29-8C54-42913A2790C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

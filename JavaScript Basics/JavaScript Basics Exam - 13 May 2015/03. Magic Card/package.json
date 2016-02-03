@@ -1,0 +1,10 @@
+{
+  "name": "03.-Magic-Card",
+  "version": "0.0.0",
+  "description": "03. Magic Card",
+  "main": "app.js",
+  "author": {
+    "name": "Khaoz",
+    "email": ""
+  }
+}

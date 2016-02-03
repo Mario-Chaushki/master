@@ -1,0 +1,10 @@
+{
+  "name": "Adding-Numbers",
+  "version": "0.0.0",
+  "description": "Adding Numbers",
+  "main": "app.js",
+  "author": {
+    "name": "Khaoz",
+    "email": ""
+  }
+}

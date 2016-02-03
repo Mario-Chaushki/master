@@ -1,0 +1,10 @@
+{
+  "name": "Array-object-extractor",
+  "version": "0.0.0",
+  "description": "Array object extractor",
+  "main": "app.js",
+  "author": {
+    "name": "Khaoz",
+    "email": ""
+  }
+}

@@ -1,0 +1,15 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Element Insertion</title>
+    <meta charset="utf-8"/>
+    <script src="jquery-2.2.2.js"></script>
+</head>
+<body>
+    <p id="middle-el">Insert items before and after this paragraph!</p>
+    <script type="text/javascript">
+        $('<p id="first-el">Before</p>').insertBefore('#middle-el');
+        $('<p id="third-el">After</p>').insertAfter('#middle-el');
+    </script>
+</body>
+</html>

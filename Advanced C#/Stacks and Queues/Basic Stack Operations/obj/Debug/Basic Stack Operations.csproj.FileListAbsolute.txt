@@ -1,0 +1,6 @@
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\Stacks and Queues\Basic Stack Operations\bin\Debug\Basic Stack Operations.exe.config
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\Stacks and Queues\Basic Stack Operations\bin\Debug\Basic Stack Operations.exe
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\Stacks and Queues\Basic Stack Operations\bin\Debug\Basic Stack Operations.pdb
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\Stacks and Queues\Basic Stack Operations\obj\Debug\Basic Stack Operations.csprojResolveAssemblyReference.cache
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\Stacks and Queues\Basic Stack Operations\obj\Debug\Basic Stack Operations.exe
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\Stacks and Queues\Basic Stack Operations\obj\Debug\Basic Stack Operations.pdb

@@ -1,0 +1,7 @@
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\Files and Directories\01. OddLines\bin\Debug\_01.OddLines.exe.config
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\Files and Directories\01. OddLines\bin\Debug\input.txt
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\Files and Directories\01. OddLines\bin\Debug\_01.OddLines.exe
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\Files and Directories\01. OddLines\bin\Debug\_01.OddLines.pdb
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\Files and Directories\01. OddLines\obj\Debug\01. OddLines.csprojResolveAssemblyReference.cache
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\Files and Directories\01. OddLines\obj\Debug\_01.OddLines.exe
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\Files and Directories\01. OddLines\obj\Debug\_01.OddLines.pdb

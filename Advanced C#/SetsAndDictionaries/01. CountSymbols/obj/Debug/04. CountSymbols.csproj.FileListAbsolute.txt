@@ -1,0 +1,6 @@
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\SetsAndDictionaries\01. CountSymbols\bin\Debug\_01.CountSymbols.exe.config
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\SetsAndDictionaries\01. CountSymbols\bin\Debug\_01.CountSymbols.exe
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\SetsAndDictionaries\01. CountSymbols\bin\Debug\_01.CountSymbols.pdb
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\SetsAndDictionaries\01. CountSymbols\obj\Debug\04. CountSymbols.csprojResolveAssemblyReference.cache
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\SetsAndDictionaries\01. CountSymbols\obj\Debug\_01.CountSymbols.exe
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\SetsAndDictionaries\01. CountSymbols\obj\Debug\_01.CountSymbols.pdb

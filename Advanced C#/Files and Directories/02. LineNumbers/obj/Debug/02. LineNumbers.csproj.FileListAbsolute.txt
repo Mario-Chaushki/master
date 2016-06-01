@@ -1,0 +1,5 @@
+C:\Users\Khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\Files and Directories\02. LineNumbers\bin\Debug\_02.LineNumbers.exe.config
+C:\Users\Khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\Files and Directories\02. LineNumbers\bin\Debug\_02.LineNumbers.exe
+C:\Users\Khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\Files and Directories\02. LineNumbers\bin\Debug\_02.LineNumbers.pdb
+C:\Users\Khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\Files and Directories\02. LineNumbers\obj\Debug\_02.LineNumbers.exe
+C:\Users\Khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\Files and Directories\02. LineNumbers\obj\Debug\_02.LineNumbers.pdb

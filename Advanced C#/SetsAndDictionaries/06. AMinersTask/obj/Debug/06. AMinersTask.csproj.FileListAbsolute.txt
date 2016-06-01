@@ -1,0 +1,1 @@
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\SetsAndDictionaries\06. AMinersTask\bin\Debug\_06.AMinersTask.exe.config

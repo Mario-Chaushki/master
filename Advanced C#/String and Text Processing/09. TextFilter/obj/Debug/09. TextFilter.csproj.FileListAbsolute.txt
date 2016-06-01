@@ -1,0 +1,6 @@
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\String and Text Processing\09. TextFilter\bin\Debug\_09.TextFilter.exe.config
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\String and Text Processing\09. TextFilter\bin\Debug\_09.TextFilter.exe
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\String and Text Processing\09. TextFilter\bin\Debug\_09.TextFilter.pdb
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\String and Text Processing\09. TextFilter\obj\Debug\09. TextFilter.csprojResolveAssemblyReference.cache
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\String and Text Processing\09. TextFilter\obj\Debug\_09.TextFilter.exe
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\String and Text Processing\09. TextFilter\obj\Debug\_09.TextFilter.pdb

@@ -1,0 +1,5 @@
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\String and Text Processing\02. StringLenght\bin\Debug\_02.StringLenght.exe.config
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\String and Text Processing\02. StringLenght\bin\Debug\_02.StringLenght.exe
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\String and Text Processing\02. StringLenght\bin\Debug\_02.StringLenght.pdb
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\String and Text Processing\02. StringLenght\obj\Debug\_02.StringLenght.exe
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\String and Text Processing\02. StringLenght\obj\Debug\_02.StringLenght.pdb

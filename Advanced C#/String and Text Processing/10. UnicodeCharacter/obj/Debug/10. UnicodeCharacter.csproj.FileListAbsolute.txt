@@ -1,0 +1,6 @@
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\String and Text Processing\10. UnicodeCharacter\bin\Debug\_10.UnicodeCharacter.exe.config
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\String and Text Processing\10. UnicodeCharacter\bin\Debug\_10.UnicodeCharacter.exe
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\String and Text Processing\10. UnicodeCharacter\bin\Debug\_10.UnicodeCharacter.pdb
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\String and Text Processing\10. UnicodeCharacter\obj\Debug\10. UnicodeCharacter.csprojResolveAssemblyReference.cache
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\String and Text Processing\10. UnicodeCharacter\obj\Debug\_10.UnicodeCharacter.exe
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\String and Text Processing\10. UnicodeCharacter\obj\Debug\_10.UnicodeCharacter.pdb

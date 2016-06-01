@@ -1,0 +1,5 @@
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\SetsAndDictionaries\SetsOfElements\bin\Debug\SetsOfElements.exe.config
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\SetsAndDictionaries\SetsOfElements\bin\Debug\SetsOfElements.exe
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\SetsAndDictionaries\SetsOfElements\bin\Debug\SetsOfElements.pdb
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\SetsAndDictionaries\SetsOfElements\obj\Debug\SetsOfElements.exe
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\SetsAndDictionaries\SetsOfElements\obj\Debug\SetsOfElements.pdb

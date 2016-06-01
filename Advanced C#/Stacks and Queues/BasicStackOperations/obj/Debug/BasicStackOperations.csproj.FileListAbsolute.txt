@@ -1,0 +1,5 @@
+C:\Users\Khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\Stacks and Queues\BasicStackOperations\bin\Debug\BasicStackOperations.exe.config
+C:\Users\Khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\Stacks and Queues\BasicStackOperations\bin\Debug\BasicStackOperations.exe
+C:\Users\Khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\Stacks and Queues\BasicStackOperations\bin\Debug\BasicStackOperations.pdb
+C:\Users\Khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\Stacks and Queues\BasicStackOperations\obj\Debug\BasicStackOperations.exe
+C:\Users\Khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\Stacks and Queues\BasicStackOperations\obj\Debug\BasicStackOperations.pdb

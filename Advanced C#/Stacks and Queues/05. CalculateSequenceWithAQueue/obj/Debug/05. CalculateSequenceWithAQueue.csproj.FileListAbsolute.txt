@@ -1,0 +1,6 @@
+C:\Users\Khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\Stacks and Queues\05. CalculateSequenceWithAQueue\bin\Debug\_05.CalculateSequenceWithAQueue.exe.config
+C:\Users\Khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\Stacks and Queues\05. CalculateSequenceWithAQueue\bin\Debug\_05.CalculateSequenceWithAQueue.exe
+C:\Users\Khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\Stacks and Queues\05. CalculateSequenceWithAQueue\bin\Debug\_05.CalculateSequenceWithAQueue.pdb
+C:\Users\Khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\Stacks and Queues\05. CalculateSequenceWithAQueue\obj\Debug\05. CalculateSequenceWithAQueue.csprojResolveAssemblyReference.cache
+C:\Users\Khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\Stacks and Queues\05. CalculateSequenceWithAQueue\obj\Debug\_05.CalculateSequenceWithAQueue.exe
+C:\Users\Khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\Stacks and Queues\05. CalculateSequenceWithAQueue\obj\Debug\_05.CalculateSequenceWithAQueue.pdb

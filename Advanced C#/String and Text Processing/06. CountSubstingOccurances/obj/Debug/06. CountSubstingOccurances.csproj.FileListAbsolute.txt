@@ -1,0 +1,5 @@
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\String and Text Processing\06. CountSubstingOccurances\bin\Debug\_06.CountSubstingOccurances.exe.config
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\String and Text Processing\06. CountSubstingOccurances\bin\Debug\_06.CountSubstingOccurances.exe
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\String and Text Processing\06. CountSubstingOccurances\bin\Debug\_06.CountSubstingOccurances.pdb
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\String and Text Processing\06. CountSubstingOccurances\obj\Debug\_06.CountSubstingOccurances.exe
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\String and Text Processing\06. CountSubstingOccurances\obj\Debug\_06.CountSubstingOccurances.pdb

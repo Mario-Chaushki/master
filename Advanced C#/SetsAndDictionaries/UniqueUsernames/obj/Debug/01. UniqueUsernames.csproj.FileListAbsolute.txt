@@ -1,0 +1,6 @@
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\SetsAndDictionaries\UniqueUsernames\bin\Debug\UniqueUsernames.exe.config
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\SetsAndDictionaries\UniqueUsernames\bin\Debug\UniqueUsernames.exe
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\SetsAndDictionaries\UniqueUsernames\bin\Debug\UniqueUsernames.pdb
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\SetsAndDictionaries\UniqueUsernames\obj\Debug\01. UniqueUsernames.csprojResolveAssemblyReference.cache
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\SetsAndDictionaries\UniqueUsernames\obj\Debug\UniqueUsernames.exe
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\SetsAndDictionaries\UniqueUsernames\obj\Debug\UniqueUsernames.pdb

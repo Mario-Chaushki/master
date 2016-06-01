@@ -1,0 +1,6 @@
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\String and Text Processing\11. CharacterMultiplier\bin\Debug\_11.CharacterMultiplier.exe.config
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\String and Text Processing\11. CharacterMultiplier\bin\Debug\_11.CharacterMultiplier.exe
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\String and Text Processing\11. CharacterMultiplier\bin\Debug\_11.CharacterMultiplier.pdb
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\String and Text Processing\11. CharacterMultiplier\obj\Debug\11. CharacterMultiplier.csprojResolveAssemblyReference.cache
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\String and Text Processing\11. CharacterMultiplier\obj\Debug\_11.CharacterMultiplier.exe
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\String and Text Processing\11. CharacterMultiplier\obj\Debug\_11.CharacterMultiplier.pdb

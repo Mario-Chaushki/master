@@ -1,0 +1,6 @@
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\String and Text Processing\03. FormattingNumbers\bin\Debug\_03.FormattingNumbers.exe.config
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\String and Text Processing\03. FormattingNumbers\bin\Debug\_03.FormattingNumbers.exe
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\String and Text Processing\03. FormattingNumbers\bin\Debug\_03.FormattingNumbers.pdb
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\String and Text Processing\03. FormattingNumbers\obj\Debug\03. FormattingNumbers.csprojResolveAssemblyReference.cache
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\String and Text Processing\03. FormattingNumbers\obj\Debug\_03.FormattingNumbers.exe
+c:\users\khaoz\documents\visual studio 2015\Projects\SoftUni Exercises\String and Text Processing\03. FormattingNumbers\obj\Debug\_03.FormattingNumbers.pdb

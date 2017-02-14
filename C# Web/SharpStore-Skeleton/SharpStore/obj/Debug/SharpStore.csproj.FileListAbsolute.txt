@@ -1,0 +1,10 @@
+C:\Users\chaus\Desktop\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\bin\Debug\Resources\Pages\404.html
+C:\Users\chaus\Desktop\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\bin\Debug\Resources\Pages\500.html
+C:\Users\chaus\Desktop\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\bin\Debug\SharpStore.exe.config
+C:\Users\chaus\Desktop\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\bin\Debug\SharpStore.exe
+C:\Users\chaus\Desktop\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\bin\Debug\SharpStore.pdb
+C:\Users\chaus\Desktop\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\bin\Debug\SimpleHttpServer.dll
+C:\Users\chaus\Desktop\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\bin\Debug\SimpleHttpServer.pdb
+C:\Users\chaus\Desktop\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\obj\Debug\SharpStore.csprojResolveAssemblyReference.cache
+C:\Users\chaus\Desktop\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\obj\Debug\SharpStore.exe
+C:\Users\chaus\Desktop\5. CSharp-Web-Dev-Basics-Hand-Made-Web-Server-Skeleton\SharpStore-Skeleton\SharpStore\obj\Debug\SharpStore.pdb

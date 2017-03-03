@@ -1,0 +1,16 @@
+c:\users\chaus\documents\visual studio 2015\Projects\PizzaForum\PizzaForum\bin\Debug\PizzaForum.exe.config
+c:\users\chaus\documents\visual studio 2015\Projects\PizzaForum\PizzaForum\bin\Debug\PizzaForum.exe
+c:\users\chaus\documents\visual studio 2015\Projects\PizzaForum\PizzaForum\bin\Debug\PizzaForum.pdb
+c:\users\chaus\documents\visual studio 2015\Projects\PizzaForum\PizzaForum\obj\Debug\PizzaForum.csprojResolveAssemblyReference.cache
+c:\users\chaus\documents\visual studio 2015\Projects\PizzaForum\PizzaForum\obj\Debug\PizzaForum.exe
+c:\users\chaus\documents\visual studio 2015\Projects\PizzaForum\PizzaForum\obj\Debug\PizzaForum.pdb
+C:\Users\chaus\documents\visual studio 2015\Projects\PizzaForum\PizzaForum\bin\Debug\Resources\Pages\404.html
+C:\Users\chaus\documents\visual studio 2015\Projects\PizzaForum\PizzaForum\bin\Debug\Resources\Pages\500.html
+C:\Users\chaus\documents\visual studio 2015\Projects\PizzaForum\PizzaForum\bin\Debug\EntityFramework.dll
+C:\Users\chaus\documents\visual studio 2015\Projects\PizzaForum\PizzaForum\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chaus\documents\visual studio 2015\Projects\PizzaForum\PizzaForum\bin\Debug\SimpleHttpServer.dll
+C:\Users\chaus\documents\visual studio 2015\Projects\PizzaForum\PizzaForum\bin\Debug\SimpleMVC.dll
+C:\Users\chaus\documents\visual studio 2015\Projects\PizzaForum\PizzaForum\bin\Debug\SimpleHttpServer.pdb
+C:\Users\chaus\documents\visual studio 2015\Projects\PizzaForum\PizzaForum\bin\Debug\SimpleMVC.pdb
+C:\Users\chaus\documents\visual studio 2015\Projects\PizzaForum\PizzaForum\bin\Debug\EntityFramework.xml
+C:\Users\chaus\documents\visual studio 2015\Projects\PizzaForum\PizzaForum\bin\Debug\EntityFramework.SqlServer.xml

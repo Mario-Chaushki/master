@@ -17,5 +17,7 @@ namespace PizzaForum
         public const string NavLogged = "nav-logged.html";
         public const string Register = "register.html";
         public const string Login = "login.html";
+        public const string Categories = "admin-categories.html";
+
     }
 }

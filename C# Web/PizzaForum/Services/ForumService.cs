@@ -78,16 +78,10 @@ namespace PizzaForum.Services
 
         public bool IsLoginModelValid(LoginUserBindingModel lubm)
         {
-            if (!Context.Users.Any(user => user.Username == lubm.Credential || user.Email == lubm.Credential))
-            {
-                return false;
-            }
-            if (!Context.Users.Any(user => user.Password == lubm.Password))
-            {
-                return false;
-            }
-
-            return true;
+            return this.Context.Users.Any(
+                user =>
+                    (user.Username == lubm.Credential || user.Email == lubm.Credential) &&
+                    user.Password == lubm.Password);
         }
 
         public void LoginUser(User user, string sessionId)
